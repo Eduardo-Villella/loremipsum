@@ -1,2 +1,2 @@
 # loremipsum
-Ejercico 1 Git Hub con Bash
+Ejercico 1 GitHub con Bash
